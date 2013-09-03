@@ -1,0 +1,81 @@
+{
+  "id":          "19379799",
+  "login":       "jackiechan2010",
+  "name":        "Jackie Chan",
+  "cpf":         "67909877544",
+  "rg":          "8742189724 SDS-SP",
+
+  "emails": [
+    {
+      "email": "jackie.chan@gmail.com",
+      "main": true,
+      "confirmed": true
+    },
+    {
+      "email": "jchan2010@locamail.com.br",
+      "main": false,
+      "confirmed": true
+    },
+    {
+      "email": "jackie.chan@locaweb.com.br",
+      "main": false,
+      "confirmed": false
+    }
+  ], // up to 3 e-mails (4 when main email is changed and waiting activation)
+  "address": {
+    "street":      "Rua Clodomiro Amazonas",
+    "number":      "576",
+    "complement":  "apt 4-F",
+    "district":    "Itaim Bibi",
+    "city":        "São Paulo",
+    "state":       "SP",
+    "country":     "BR",
+    "postal_code": "04531070"
+  },
+  "twitter":         "jackiechan2010",
+  "facebook":        "jackiechanfb",
+  "created_at":      "2011-07-01",
+  "opt_in_locaweb":  true,
+  "opt_in_partners": false,
+  "opt_in_sms":      false,
+  "knew_locaweb_at": "Groeland",
+  "manager_id":      123456,
+  "link": [
+    {
+      "rel":  "contacts",
+      "href": "http://$customer-api/customers/19379799/contacts"
+    },
+    {
+      "rel":  "billing_info",
+      "href": "http://$customer-api/customers/19379799/billing_info"
+    },
+    {
+      "rel":  "billing_contact",
+      "href": "http://$customer-api/customers/19379799/billing_contact"
+    },
+    {
+      "rel":  "balance",
+      "href": "http://$customer-api/customers/19379799/balance"
+    },
+    {
+      "rel":  "credit",
+      "href": "http://$customer-api/customers/19379799/credit"
+    },
+    {
+      "rel":  "manager",
+      "href": "http://$customer-api/customers/19379799/manager"
+    },
+    {
+      "rel":  "provisionings",
+      "href": "http://$customer-api/customers/19379799/provisionings"
+    },
+    {
+      "rel":  "orders",
+      "href": "http://$customer-api/customers/19379799/orders"
+    },
+    {
+      "rel":  "boletos",
+      "href": "http://$customer-api/customers/19379799/boletos"
+    }
+  ]
+}
