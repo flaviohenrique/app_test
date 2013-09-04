@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "id":         "19281982901",
+      "login":      "jackiechan2010",
+      "name":       "Jackie Chan",
+      "created_at": "2011-07-01",
+      "href":       "http://$customer-api/customers/19281982901"
+    },
+    {
+      "id":         "12929829829",
+      "login":      "brucelee2011",
+      "name":       "Bruce Lee",
+      "created_at": "2011-07-01",
+      "href":       "http://$customer-api/customers/12929829829"
+    }
+  ]
+}

@@ -34,12 +34,12 @@
   },
   "twitter":         "jackiechan2010",
   "facebook":        "jackiechanfb",
-  "created_at":      "2011-07-01",
+  "created_at":      "01-02-2011",
   "opt_in_locaweb":  true,
   "opt_in_partners": false,
   "opt_in_sms":      false,
   "knew_locaweb_at": "Groeland",
-  "manager_id":      123456,
+  "manager_id":      "123456.78",
   "link": [
     {
       "rel":  "contacts",
